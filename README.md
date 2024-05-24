@@ -9,7 +9,7 @@ Welcome to the Darshika Learning Landing Page project! This landing page is desi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -30,3 +30,27 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/darshika-learning-landing-page.git
+   ```
+2. Open the `index.html` file in your preferred web browser.
+
+## Usage
+
+Feel free to use this landing page as a template for your own projects or customize it to fit your specific needs. Update the content, add new sections, or modify the styles to match your branding and preferences.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/your-feature`).
+6. Create a new Pull Request.
+
+Please ensure that your Pull Request adheres to the [Contributing Guidelines](CONTRIBUTING.md).
+
+
+![image](https://github.com/darship19/webdevelopment/assets/117564041/49b1f510-e4ef-4892-b724-38c2f373d6db)
+
+![image](https://github.com/darship19/webdevelopment/assets/117564041/67b0bdb6-5489-4c5b-8198-abf9f01ebf9f)
